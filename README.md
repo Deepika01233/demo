@@ -1,1 +1,2 @@
-registartion page demo
+registartion page demonstartion
+
